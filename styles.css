@@ -1,0 +1,22 @@
+/* Styles for the image preview */
+#image {
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    line-height: 200px; /* Vertically center text */
+    font-size: 20px;
+    color: #fff;
+    background-color: #333; /* Default background color */
+    border: 1px solid #ccc;
+    margin: 20px auto;
+}
+
+/* Style for the preview images */
+.preview {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+}
